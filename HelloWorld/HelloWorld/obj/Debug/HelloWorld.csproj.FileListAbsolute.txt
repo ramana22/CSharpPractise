@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\sharp practise\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\sharp practise\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\dell\Desktop\sharp practise\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\dell\Desktop\sharp practise\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\dell\Desktop\sharp practise\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\sharp practise\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\dell\Desktop\sharp practise\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

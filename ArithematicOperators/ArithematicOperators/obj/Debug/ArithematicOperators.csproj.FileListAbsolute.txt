@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\sharp practise\ArithematicOperators\ArithematicOperators\bin\Debug\ArithematicOperators.exe.config
+C:\Users\dell\Desktop\sharp practise\ArithematicOperators\ArithematicOperators\bin\Debug\ArithematicOperators.exe
+C:\Users\dell\Desktop\sharp practise\ArithematicOperators\ArithematicOperators\bin\Debug\ArithematicOperators.pdb
+C:\Users\dell\Desktop\sharp practise\ArithematicOperators\ArithematicOperators\obj\Debug\ArithematicOperators.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\sharp practise\ArithematicOperators\ArithematicOperators\obj\Debug\ArithematicOperators.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\sharp practise\ArithematicOperators\ArithematicOperators\obj\Debug\ArithematicOperators.exe
+C:\Users\dell\Desktop\sharp practise\ArithematicOperators\ArithematicOperators\obj\Debug\ArithematicOperators.pdb

@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\sharp practise\HelloWorld\ArrayPractise\bin\Debug\ArrayPractise.exe.config
+C:\Users\dell\Desktop\sharp practise\HelloWorld\ArrayPractise\bin\Debug\ArrayPractise.exe
+C:\Users\dell\Desktop\sharp practise\HelloWorld\ArrayPractise\bin\Debug\ArrayPractise.pdb
+C:\Users\dell\Desktop\sharp practise\HelloWorld\ArrayPractise\obj\Debug\ArrayPractise.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\sharp practise\HelloWorld\ArrayPractise\obj\Debug\ArrayPractise.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\sharp practise\HelloWorld\ArrayPractise\obj\Debug\ArrayPractise.exe
+C:\Users\dell\Desktop\sharp practise\HelloWorld\ArrayPractise\obj\Debug\ArrayPractise.pdb
