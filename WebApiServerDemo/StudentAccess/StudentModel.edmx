@@ -4,14 +4,10 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="MyDataBaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
-        <!--Errors Found During Generation:
-warning 6002: The table/view 'MyDataBase.dbo.StudentInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+      <Schema Namespace="StudentInfoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="StudentInfo">
           <Key>
             <PropertyRef Name="id" />
-            <PropertyRef Name="name" />
-            <PropertyRef Name="ht_no" />
           </Key>
           <Property Name="id" Type="int" Nullable="false" />
           <Property Name="name" Type="varchar" MaxLength="20" Nullable="false" />
@@ -20,28 +16,17 @@ warning 6002: The table/view 'MyDataBase.dbo.StudentInfo' does not have a primar
           <Property Name="sec" Type="varchar" MaxLength="5" />
           <Property Name="email" Type="varchar" MaxLength="50" />
         </EntityType>
-        <EntityContainer Name="MyDataBaseModelStoreContainer">
-          <EntitySet Name="StudentInfo" EntityType="Self.StudentInfo" store:Type="Tables" store:Schema="dbo">
-            <DefiningQuery>SELECT 
-    [StudentInfo].[id] AS [id], 
-    [StudentInfo].[name] AS [name], 
-    [StudentInfo].[ht_no] AS [ht_no], 
-    [StudentInfo].[class] AS [class], 
-    [StudentInfo].[sec] AS [sec], 
-    [StudentInfo].[email] AS [email]
-    FROM [dbo].[StudentInfo] AS [StudentInfo]</DefiningQuery>
-          </EntitySet>
+        <EntityContainer Name="StudentInfoModelStoreContainer">
+          <EntitySet Name="StudentInfo" EntityType="Self.StudentInfo" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
       </Schema>
     </edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
-      <Schema Namespace="MyDataBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+      <Schema Namespace="StudentInfoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityType Name="StudentInfo">
           <Key>
             <PropertyRef Name="id" />
-            <PropertyRef Name="name" />
-            <PropertyRef Name="ht_no" />
           </Key>
           <Property Name="id" Type="Int32" Nullable="false" />
           <Property Name="name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
@@ -58,9 +43,9 @@ warning 6002: The table/view 'MyDataBase.dbo.StudentInfo' does not have a primar
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="MyDataBaseModelStoreContainer" CdmEntityContainer="StudentInfoEntities">
+        <EntityContainerMapping StorageEntityContainer="StudentInfoModelStoreContainer" CdmEntityContainer="StudentInfoEntities">
           <EntitySetMapping Name="StudentInfoes">
-            <EntityTypeMapping TypeName="MyDataBaseModel.StudentInfo">
+            <EntityTypeMapping TypeName="StudentInfoModel.StudentInfo">
               <MappingFragment StoreEntitySet="StudentInfo">
                 <ScalarProperty Name="id" ColumnName="id" />
                 <ScalarProperty Name="name" ColumnName="name" />

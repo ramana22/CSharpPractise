@@ -11,11 +11,9 @@ namespace StudentAccess
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-
+    
     public partial class StudentInfo
     {
-        [Key]
         public int id { get; set; }
         public string name { get; set; }
         public string ht_no { get; set; }
