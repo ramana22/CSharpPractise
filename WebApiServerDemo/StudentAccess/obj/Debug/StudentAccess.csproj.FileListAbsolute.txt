@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\bin\Debug\StudentAccess.dll.config
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\bin\Debug\StudentAccess.dll
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\bin\Debug\StudentAccess.pdb
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\bin\Debug\EntityFramework.dll
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\bin\Debug\EntityFramework.xml
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\obj\Debug\StudentAccess.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\obj\Debug\StudentAccess.csproj.CopyComplete
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\obj\Debug\StudentAccess.dll
+C:\Users\dell\source\repos\WebApiServerDemo\StudentAccess\obj\Debug\StudentAccess.pdb

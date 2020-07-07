@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\bin\Debug\UserDataAccess.dll.config
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\bin\Debug\UserDataAccess.dll
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\bin\Debug\UserDataAccess.pdb
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\obj\Debug\UserDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\obj\Debug\UserDataAccess.csproj.CopyComplete
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\obj\Debug\UserDataAccess.dll
+C:\Users\dell\source\repos\WebApiDemoServices\UserDataAccess\obj\Debug\UserDataAccess.pdb
