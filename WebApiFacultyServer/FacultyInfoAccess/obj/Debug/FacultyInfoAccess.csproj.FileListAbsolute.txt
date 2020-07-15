@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\bin\Debug\FacultyInfoAccess.dll.config
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\bin\Debug\FacultyInfoAccess.dll
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\bin\Debug\FacultyInfoAccess.pdb
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\bin\Debug\EntityFramework.dll
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\bin\Debug\EntityFramework.xml
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\obj\Debug\FacultyInfoAccess.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\obj\Debug\FacultyInfoAccess.csproj.CopyComplete
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\obj\Debug\FacultyInfoAccess.dll
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\obj\Debug\FacultyInfoAccess.pdb
+C:\Users\dell\source\repos\WebApiFacultyServer\FacultyInfoAccess\obj\Debug\FacultyInfoAccess.csprojAssemblyReference.cache
